@@ -28,7 +28,8 @@ Our customers are always a big discussion topic with management and the sales te
 
 ##
 Technologies used:
-* SQL Server
+* SSMS 
 * Azure Data Studio 
-* Docker Desktop for Mac
+* Docker 
+
 
