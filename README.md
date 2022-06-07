@@ -34,5 +34,6 @@ Technologies used:
 * SSMS 
 * Azure Data Studio 
 * Docker 
+* Power BI
 
 
