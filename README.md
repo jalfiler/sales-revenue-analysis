@@ -1,7 +1,6 @@
 
 # Sales Revenue Analysis
 
-Analysis
 You will need to understand and analyze the data in the AdventureWorks2017DW database. (This is the data warehouse, not the database you have used for other efforts).
 
 Key points to remember:
