@@ -5,18 +5,19 @@ You will need to understand and analyze the data in the AdventureWorks2017DW dat
 
 Key points to remember:
 
-The sales data is found in two tables that may need to be joined for some analysis and separate for others.
-Internet sales (factInternetSales) are direct, online sales
-Reseller sales (factResellerSales) are through reseller network
+* The sales data is found in two tables that may need to be joined for some analysis and separate for others.
+* Internet sales (factInternetSales) are direct, online sales
+* Reseller sales (factResellerSales) are through reseller network
+
 The data warehouse also contains important information that will be relevant for your analysis, including the following:
 
-Customer data that provides interesting demographic data
-Product data that can be segregated into categories and subcategories
-Promotion data that may give insights to success of promotions
-Geography data to analyze data by region
-Territory data that can be joined with sales data to look at sales group performance.
-Your objectives:
+* Customer data that provides interesting demographic data
+* Product data that can be segregated into categories and subcategories
+* Promotion data that may give insights to success of promotions
+* Geography data to analyze data by region
+* Territory data that can be joined with sales data to look at sales group performance.
 
+Your objectives:
 In each of the following objectives you need to provide the minimum in a clear, concise, and professional manner. Feel free to expand on the objectives if you see something interesting in the data, but make sure you are able to explain your reasoning and your findings. The first three are rather prescriptive and you’ll need to follow the requests. The last two are open to interpretation, as long as you meet the intent of the objective.
 
 * Provide a detailed list of Internet sales with the following columns for the financial analyst team to review (Category, Model, CustomerKey, Region, IncomeGroup, CalendarYear, FiscalYear, Month, OrderNumber, Quantity, and Amount). Income group should categorize the people based on "Low" being less than 40,000, "High" being greater than 60,000, and the rest will be "Moderate".
