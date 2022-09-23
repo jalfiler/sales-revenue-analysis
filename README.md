@@ -1,6 +1,9 @@
 
 # Sales Revenue Analysis
 
+This repository consist of my way to analyze both successful and unsuccessful promotional sales using the AdventureWorks2017DW database. I created three general reports and two comparative reports for my analysis (on the Memo PDF file) and my findings. (located in the Technical Analysis Report.pdf)
+
+----
 You will need to understand and analyze the data in the AdventureWorks2017DW database. (This is the data warehouse, not the database you have used for other efforts).
 
 Key points to remember:
